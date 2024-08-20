@@ -1,5 +1,0 @@
-qwerty; 321
-abc; 123
-bd; 3
-abc; 123
-bd; 3
